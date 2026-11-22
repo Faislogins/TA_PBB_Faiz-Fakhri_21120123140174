@@ -1,8 +1,8 @@
 # BukuKu — Aplikasi Katalog Buku & Penulis (PWA)
 
-- Nama   : [Nama Anda]
-- NIM    : [NIM]
-- Kelas  : [Kelas]
+- Nama   : Faiz Fakhri
+- NIM    : 21120123140174
+- Kelas  : Prak PPB
 - Platform : PWA (HTML + CSS + JavaScript murni)
 - Web Service : PHP Native + MySQL (Modul 1)
 - Demo   : https://USERNAME.github.io/bukuku-pwa/
