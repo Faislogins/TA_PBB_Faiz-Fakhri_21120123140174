@@ -1,0 +1,108 @@
+{
+ "penulis": [
+  {
+   "id": 1,
+   "nama": "Andrea Hirata",
+   "biografi": "Penulis novel Laskar Pelangi yang terinspirasi dari kisah masa kecilnya di Belitung.",
+   "negara": "Indonesia"
+  },
+  {
+   "id": 2,
+   "nama": "Pramoedya Ananta Toer",
+   "biografi": "Sastrawan besar Indonesia, penulis Tetralogi Buru.",
+   "negara": "Indonesia"
+  },
+  {
+   "id": 3,
+   "nama": "Tere Liye",
+   "biografi": "Penulis produktif dengan banyak novel best-seller.",
+   "negara": "Indonesia"
+  },
+  {
+   "id": 4,
+   "nama": "Habiburrahman El Shirazy",
+   "biografi": "Novelis Indonesia yang dikenal lewat novel religi Ayat-Ayat Cinta.",
+   "negara": "Indonesia"
+  },
+  {
+   "id": 5,
+   "nama": "Dee Lestari",
+   "biografi": "Penulis dan penyanyi Indonesia, pencipta serial Supernova.",
+   "negara": "Indonesia"
+  }
+ ],
+ "buku": [
+  {
+   "id": 1,
+   "judul": "Laskar Pelangi",
+   "penulis_id": 1,
+   "genre": "Novel",
+   "tahun": 2005,
+   "sinopsis": "Kisah 10 anak Belitung yang bersekolah di SD Muhammadiyah dengan segala keterbatasannya."
+  },
+  {
+   "id": 2,
+   "judul": "Sang Pemimpi",
+   "penulis_id": 1,
+   "genre": "Novel",
+   "tahun": 2006,
+   "sinopsis": "Kelanjutan kisah Ikal dan Arai yang bermimpi melanjutkan sekolah hingga ke Eropa."
+  },
+  {
+   "id": 3,
+   "judul": "Edensor",
+   "penulis_id": 1,
+   "genre": "Novel",
+   "tahun": 2007,
+   "sinopsis": "Lanjutan kisah Ikal mengembara ke Eropa."
+  },
+  {
+   "id": 4,
+   "judul": "Bumi Manusia",
+   "penulis_id": 2,
+   "genre": "Novel Sejarah",
+   "tahun": 1980,
+   "sinopsis": "Kisah Minke di era kolonial Hindia Belanda."
+  },
+  {
+   "id": 5,
+   "judul": "Anak Semua Bangsa",
+   "penulis_id": 2,
+   "genre": "Novel Sejarah",
+   "tahun": 1980,
+   "sinopsis": "Lanjutan kisah Minke yang mulai memahami nasib bangsanya."
+  },
+  {
+   "id": 6,
+   "judul": "Bumi",
+   "penulis_id": 3,
+   "genre": "Fantasi",
+   "tahun": 2014,
+   "sinopsis": "Petualangan Raib, Ali, dan Seli di dunia paralel."
+  },
+  {
+   "id": 7,
+   "judul": "Hujan",
+   "penulis_id": 3,
+   "genre": "Fiksi Ilmiah",
+   "tahun": 2016,
+   "sinopsis": "Kisah Lail dan Esok di masa depan setelah bencana besar."
+  },
+  {
+   "id": 8,
+   "judul": "Ayat-Ayat Cinta",
+   "penulis_id": 4,
+   "genre": "Novel Religi",
+   "tahun": 2004,
+   "sinopsis": "Perjalanan Fahri, mahasiswa Indonesia di Kairo, dalam menghadapi cinta dan ujian hidup."
+  },
+  {
+   "id": 9,
+   "judul": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+   "penulis_id": 5,
+   "genre": "Fiksi Ilmiah",
+   "tahun": 2001,
+   "sinopsis": "Kisah Dimas dan Reuben yang menulis kisah cinta berlatar sains."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>BukuKu</title>
+  <meta name="theme-color" content="#3f51b5">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <button id="back" class="icon-btn" aria-label="Kembali" hidden>←</button>
+    <h1 id="title">BukuKu</h1>
+  </header>
+
+  <main id="app"></main>
+
+  <nav class="bottom-nav">
+    <a href="#/home"    data-tab="home"><span>🏠</span>Home</a>
+    <a href="#/buku"    data-tab="buku"><span>📖</span>Buku</a>
+    <a href="#/penulis" data-tab="penulis"><span>✍️</span>Penulis</a>
+    <a href="#/profil"  data-tab="profil"><span>👤</span>Profil</a>
+  </nav>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
