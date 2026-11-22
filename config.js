@@ -9,9 +9,9 @@ const CONFIG = {
 
   // Identitas untuk halaman Profil
   PROFILE: {
-    nama: '[Nama Anda]',
-    nim: '[NIM Anda]',
-    kelas: '[Kelas Anda]',
-    github: 'github.com/[username]/bukuku-pwa'
+    nama: 'Faiz Fakhri',
+    nim: '21120123140174',
+    kelas: 'Prak PPB',
+    github: 'github.com/Faislogins/bukuku-pwa'
   }
 };
